@@ -24,8 +24,31 @@ what is the python ?
 for example :
         hello world program can be written in the 
            print("hello, world")
-               or                      } display output will be : hello , world ....
+               or                  } display output will be : hello , world ....
            print('hello, world') 
 
+*Comments*                   
+Sometimes we want to write notes inside our code.
+                   
+Python uses # for comments.
 
-  
+# This is my first Python program
+
+print("Hello, World!")
+
+python ignore comments you can also write 
+
+# Display my name
+print("Hari Krishna")
+
+Variables:
+       example :
+suppose 
+       name = "Hari"
+       age = 20
+
+then :
+       print(name)
+output will be : Hari 
+
+
